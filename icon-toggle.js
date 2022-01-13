@@ -15,7 +15,7 @@ class IconToggle extends PolymerElement {
       </style>
   
       <!-- shadow DOM goes here -->
-      <span>Not much here yet.</span>
+      <span>hi!<hr /> <iron-icon icon="polymer"></iron-icon></span>
     `;
   }
   constructor() {
